@@ -1,7 +1,7 @@
 # Deep Learning Toolkit from Scratch Using Numerical Differentiation
 Toolkit for building and training deep learning models. Built from scratch.
 
-To train your model simply modify the train.py script using your custom hyperparemeters.
+To train your model simply modify the train.py script using your custom hyperparemeters. The model logs the parameters and loss after each epoch. The log files can be found under the logs directory.
 
 ## Requirements:
 * The only requirement for this project is **Numpy**
@@ -31,4 +31,6 @@ The following results show the training process while using the Iris flower clas
 
 As you can see from the results the differentiation formula that was used did not significantly affect the outcome for this specific dataset. In comparison to a model trained in Pytorch, both performed with similar accuracies on the training and testing datasets, however the Pytorch model converged within 20 epochs while the other model took 100 epochs to converge. In addition, the time taken to train one epoch was much shorter on the Pytorch model.
 
+<img src="media/iris_all_plot.png">
+<img src="media/iris_pytorch.png">
 
