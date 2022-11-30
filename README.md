@@ -66,7 +66,7 @@ pip install seaborn
 pip install tensorboard
 pip install pandas
 pip install scikit-learn
-git clone https://github.com/kousheekc/Deep-Learning-Toolkit-using-Numerical-Differentiation
+git clone https://github.com/kousheekc/Deep-Learning-Toolkit-using-Numerical-Differentiation.git
 ```
 
 ## Usage
