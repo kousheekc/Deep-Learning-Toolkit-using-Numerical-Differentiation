@@ -1,5 +1,5 @@
 # Deep Learning Toolkit from Scratch Using Numerical Differentiation
-Toolkit for building and training deep learning models. Built from scratch.
+Toolkit for building and training deep learning models built from scratch.
 
 In this project, I develop a deep learning toolkit from scratch for building and training neural networks. The optmizers make use of numerical differnetiation algortihms to compute the gradient tensor. Other useful tools are included in the package such as a logger using Tensorboard and a plotter using Seaborn. 
 
